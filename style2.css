@@ -1,0 +1,70 @@
+body {
+    font-family: Arial,sans-serif;
+    font-size: 15pt;
+    font-weight: 400;
+    color: #333;
+    text-align: center;
+  background-color: #a7dca1;
+  background-image: url(http://www.kjm.cz/media/images/bg_body.png);
+  background-repeat: repeat-y;
+  background-position: left;
+}
+head{
+  display: none;
+}
+div#class {
+  width: 1003px; 
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
+}
+p {
+  line-height: 140%;
+  margin-bottom: 20px;
+  font-weight: inherit;
+  font-size: 100%;
+  font-family: inherit;
+  vertical-align: baseline;
+}
+p {
+  display: block;
+  -webkit-margin-before: 1em;
+  -webkit-margin-after: 1em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+}
+h1 {
+  font-size: 29pt;
+  color: #0e7f26;
+  font-weight: bolder;
+  margin-bottom: 20px;
+  padding-left: 55px;
+  background-image: url(http://www.kjm.cz/media/images/bg_h.png);
+  background-position-x: right;
+  background-position-y: center; 
+  background-repeat: no-repeat;
+  background-size: 50px;
+  margin-top: 20px;
+}
+
+
+h2 {
+  background-image: url(http://www.kjm.cz/media/images/top_left-menu.png);
+  background-repeat: 0px;
+ 
+}
+
+header {
+background-color: #90EE90;
+}
+aside {
+      padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+}
+ footer {
+  background-color: #90EE90;
+  margin-bottom: 50px;
+ }
